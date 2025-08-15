@@ -1,8 +1,8 @@
 # **Cynthia Ani** 👋
 
 👩‍💻 Data Analyst | AI Explorer | MSC in Advanced Data Analyticsin Applied Artificial Intelligence
-📊 15 Projects Completed
-💡 Passionate about turning data into insights and building intelligent systems
+|📊 15 Projects Completed
+|💡 Passionate about turning data into insights and building intelligent systems
 
 ---
 
