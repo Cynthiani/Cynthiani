@@ -9,13 +9,14 @@
 ### **Languages & Tools**
 - Python 🐍 | SQL| JSON | Pandas | NumPy | Scikit-learn | XGBoost | TensorFlow | Keras
 - SQL | Tableau | Power BI | Matplotlib| AWS |GCP | Git & GitHub | Vertex AI | ML Algorithms
-- A/B Testing | Hadoop | Spark | Hive | Statistical Analysis | RAG | LLM | BigQuery
+- A/B Testing | Hadoop | Spark | Hive | Statistical Analysis | RAG | LLM | BigQuery | LangChain
 - NLTK | Prompt Engineering | Statistical Analysis | Agile | Multi-agent Systems
 
 ---
 
 ### **Interests**
 - Multi-Agent AI Systems 🤖
+- Natural Language Processing
 - Facial Emotion Recognition 😄😢😡
 - Big Data Analytics & Applied AI Projects
 
